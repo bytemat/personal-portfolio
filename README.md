@@ -1,9 +1,9 @@
-# Personal Portfolio Website
+### A personal portfolio website built with Next.js and Tailwind CSS  
+The website serves as an online resume that highlights experience, provides links to projects, and demonstrates proficiency in various technologies.
 
-### A personal portfolio website built with Next.js and Tailwind CSS 
-The website serves as an online resume that highlights experience, provides links to projects, and demonstrates proficiency in various technologies
 ## Features
-- **Modern UI**: Clean and responsive design using **HTML**, **CSS**, and **JavaScript**.
-- **Project Showcase**: Displaying personal projects, with detailed descriptions and links.
-- **Interactive Features**: Enhances user engagement through dynamic elements.
-- **Dark Mode Support**: Toggle between light and dark themes for better usability.
+- Clean and responsive design for a seamless experience across devices and screen sizes.
+- Display personal projects with detailed descriptions, images, and direct links to GitHub repositories or live demos.
+- Engages visitors with animations, hover effects, and smooth transitions.
+- Brief introduction highlighting professional background, skills, and achievements.
+- Integrated form for potential employers or collaborators to easily get in touch.
