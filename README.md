@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-### A personal portfolio website designed to showcase professional projects, technical skills, and achievements. 
+### A personal portfolio website built with Next.js and Tailwind CSS 
 The website serves as an online resume that highlights experience, provides links to projects, and demonstrates proficiency in various technologies
 ## Features
 - **Modern UI**: Clean and responsive design using **HTML**, **CSS**, and **JavaScript**.
